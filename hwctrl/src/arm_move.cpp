@@ -6,8 +6,6 @@
 
 #include <pigpio.h>
 #include <stdio.h>
-void Servo(float);
-void LA_Drive(int handle);
 
 //ADC addresses
 #define ADS7830_I2C_Addr 0x48
