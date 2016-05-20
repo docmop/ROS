@@ -1,0 +1,4 @@
+int32 linear_pos
+int32 servo_pos
+---
+bool done
